@@ -16,12 +16,14 @@ body {
 
 .normFontBlue{
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
   color: #4aaaa5;
 }
 
-/* general */
+general
 
-/*.container {
+
+.container {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
@@ -59,7 +61,7 @@ h3 {
   font-size: 22px;
 }
 
-/* header */
+header
 
 #masthead {
   position: fixed;
